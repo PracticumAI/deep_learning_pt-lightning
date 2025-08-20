@@ -9,7 +9,7 @@ Please see [this repository for the **TensorFlow** version](https://github.com/P
 <br><br><br>
 ---
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PracticumAI/deep_learning)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PracticumAI/deep_learning_pt-lightning)
 
 ## Module 1: Neural Network Basics Objectives
 
